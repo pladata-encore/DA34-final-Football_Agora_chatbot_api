@@ -2,6 +2,15 @@
 - 서버상에 챗봇을 실행하고 응답을 주고받기 위한 API입니다.
 - Fast API를 이용하여 구성하였습니다.
 
+---
+
+#### 🚀 Use Tech
+![Ubuntu](https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu)
+![HuggingFace](https://img.shields.io/badge/huggingface-yellow?style=for-the-badge&logo=HuggingFace)
+![Colab](https://img.shields.io/badge/Colab-black?style=for-the-badge&logo=GoogleColab)
+![Colab](https://img.shields.io/badge/FastAPI-cyanblue?style=for-the-badge&logo=FastAPI)
+
+---
 
 ### To [Football_Agora](https://github.com/pladata-encore/DA34-final-Football_Agora)
 
