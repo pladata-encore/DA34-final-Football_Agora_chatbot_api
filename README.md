@@ -1,5 +1,5 @@
 
-### main.py 실행-> 서버에서 실행 시켜놓으면 됩니당
+### main.py 실행-> 서버에서 실행
 ```python
 # 터미널 실행
 uvicorn main:app --port <원하는 포트번호> --reload
@@ -7,7 +7,7 @@ uvicorn main:app --port <원하는 포트번호> --reload
 
 
 
-### API 응답 호출 방법 -> django 내에서 모델 사용할 부분에 붙이시면 됩니다
+### API 응답 호출 방법 -> django 내에서 모델 사용할 부분
 
 ```python
 import requests
