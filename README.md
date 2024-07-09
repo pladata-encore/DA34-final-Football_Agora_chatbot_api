@@ -51,7 +51,10 @@ response.json() # 모델 응답 결과
 [풋풋이⚽](https://huggingface.co/Dongwookss/small_fut_final)
 
 
+### About Finetuning
 
-
+- **Environment** : Colab L4 GPU
+- **Method** : SFT(Supervised Fine-Tuning) Trainer
+- **Quantized by** : Unsloth
 
 
