@@ -46,6 +46,11 @@ response.json() # 모델 응답 결과
 ```
 
 
+### Model repo
+
+[풋풋이⚽](https://huggingface.co/Dongwookss/small_fut_final)
+
+
 
 
 
