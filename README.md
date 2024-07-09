@@ -1,4 +1,9 @@
 ## DA34-final-Football_Agora_chatbot_api 
+
+### About FutFut
+<img src="https://github.com/ddsntc1/Chatbot_FutFut/assets/38596856/cb1cd8b7-c556-46a8-ab8d-e093af713433.jpg" width="400" height="400">
+
+
 - 서버상에 챗봇을 실행하고 응답을 주고받기 위한 API입니다.
 - Fast API를 이용하여 구성하였습니다.
 
