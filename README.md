@@ -3,10 +3,13 @@
 - Fast API를 이용하여 구성하였습니다.
 
 
-## To 
+### To [Football_Agora](https://github.com/pladata-encore/DA34-final-Football_Agora)
 
-## From [ddsntc1/ChatbotAPI](https://github.com/ddsntc1/FA_Chatbot_for_API)
+---
 
+### From [ddsntc1/ChatbotAPI](https://github.com/ddsntc1/FA_Chatbot_for_API)
+
+---
 
 ### main.py 실행-> 서버에서 실행
 ```python
