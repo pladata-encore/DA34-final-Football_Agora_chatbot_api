@@ -1,3 +1,12 @@
+## DA34-final-Football_Agora_chatbot_api 
+- 서버상에 챗봇을 실행하고 응답을 주고받기 위한 API입니다.
+- Fast API를 이용하여 구성하였습니다.
+
+
+## To 
+
+## From [ddsntc1/ChatbotAPI](https://github.com/ddsntc1/FA_Chatbot_for_API)
+
 
 ### main.py 실행-> 서버에서 실행
 ```python
